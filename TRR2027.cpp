@@ -23,8 +23,8 @@ void DFS(int u, int p = -1) {
 }
 
 int main() {
-    freopen("TK.INP", "r" ,stdin);
-    freopen("TK.OUT", "w" ,stdout);
+    // freopen("TK.INP", "r" ,stdin);
+    // freopen("TK.OUT", "w" ,stdout);
     cin>> n;
     for (int i=1; i<=n; i++) {
         for (int j=1; j<=n; j++) {
